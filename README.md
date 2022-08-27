@@ -9,4 +9,5 @@ we will follow branching structure as below.
 
 * created repository and added initial code on main
 * created new develop branch from main
+* created new feature2 branch from develop
 
