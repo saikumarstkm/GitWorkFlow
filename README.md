@@ -8,4 +8,5 @@ we will follow branching structure as below.
 4. Hot_Fix
 
 * created repository and added initial code on main
-* created new develop branch from main 
+* created new develop branch from main
+
